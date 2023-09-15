@@ -15,7 +15,7 @@
     5) 거점 BOD (SITE_BOD) <br>
     6) 출하 LT (SHIPMENT_LT) <br>
     7) 글로벌 계획 BOM (LOC_BOD_MAP) <br>
-    8) 거점 수송 (TRANSPORTATION)
+    8) 거점 수송 (TRANSPORTATION) <br>
 > [4. IM 데이터 일괄 생성](#4-im-데이터-일괄-생성-batch-procedure) <br>
     1) DP 버전 생성 <br>
     2) RP 버전 생성 <br>
